@@ -26,6 +26,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+  * [Video](#video)
   <!--* [Built With](#built-with)-->
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -43,6 +44,8 @@
 ## About The Project
 The Game of Life is a simulation on a grid where each cell has one of two states (populated or unpopulated) which all change based on the following rules.
 
+###### Video
+A video sample of what this project can produce can be found here: https://youtu.be/a6EcYjdSJMg.
 
 ###### The Rules
 For a space that is 'populated':
